@@ -52,7 +52,6 @@ for i in range(n):
 ```
 
 ## Output:
-
 <img width="760" height="1099" alt="Screenshot 2025-09-02 140329" src="https://github.com/user-attachments/assets/62abf754-5c62-4030-af5c-317d7d0e3383" />
 
 ## Result:
